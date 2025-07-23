@@ -20,12 +20,12 @@ A full-stack student attendance management system built with **Next.js**, **Tail
 > ## 📸 Screenshots
 
 ### 📊 Dashboard Page
-![Dashboard Page](./screenshots/dashboard_page.png)
+![Dashboard Page](./screenshots/dashboard.png)
 
 ---
 
 ### 📝 Attendance Page
-![Attendance Page](./screenshots/attendance_page.png)
+![Attendance Page](./screenshots/attendance.png)
 
 ---
 
