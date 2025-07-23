@@ -12,7 +12,6 @@ A full-stack student attendance management system built with **Next.js**, **Tail
 - 🧑‍🎓 **Add / View / Delete Student Records**
 - 🗓️ **Attendance Management Screen**
 - 📊 **Dashboard with Cards (Total Students, Present, Absent)**
-- 📈 **Upcoming: Bar & Pie Charts for Analytics**
 
 ---
 
@@ -41,7 +40,6 @@ A full-stack student attendance management system built with **Next.js**, **Tail
 - **Frontend**: React (Next.js), Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Chart Library** (Upcoming): Recharts
 
 ---
 

@@ -25,4 +25,7 @@ export default {
   GetAttendanceList,
   MarkAttendance,
   MarkAbsent,
+  
 };
+
+

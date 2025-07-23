@@ -12,6 +12,7 @@ const Dashboard = () => {
   const [selectedMonth, setSelectedMonth] = useState();
   const [selectedGrade, setSelectedGrade] = useState();
   const [attendanceList, setAttendanceList] = useState([]);
+  
 
   useEffect(() => {
     if (selectedMonth && selectedGrade) {
@@ -30,6 +31,9 @@ const Dashboard = () => {
         console.error("Failed to fetch attendance:", error);
       });
   };
+
+
+ 
 
   return (
     <div className="p-10">
